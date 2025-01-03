@@ -17,6 +17,7 @@ Original file is located at
 import streamlit as st
 st.set_page_config(layout="wide")
 st.title("DOXPLOR")
+st.divider()
 
 #importing Libraries
 from langchain.sql_database import SQLDatabase
