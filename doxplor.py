@@ -59,7 +59,7 @@ import sqlite3
 import os
 #################################APIKeY################################################
 with st.sidebar:
-    gemini_api_key = st.text_input("GEMINI API KEY", key="gemini_api_key", type="password")
+    gemini_api_key = st.text_input("Gemini API Key", key="gemini_api_key", type="password")
     #GROQ_API_KEY = st.text_input("GROQ API KEY", key="llama_api_key", type="password")
     #OPENAI_API_KEY = st.text_input("OPENAI API KEY", key="openai_api_key", type="password")
     
