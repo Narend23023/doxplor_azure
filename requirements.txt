@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain_community
+langchain_google_genai
+langchain_groq
+numpy
+pandas
+matplotlib
+seaborn
+pydantic
+langgraph
+lxml
